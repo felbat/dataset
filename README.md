@@ -14,3 +14,8 @@
 ## Countries
 
     Orientações: Base criada com IA generativa
+
+## population-unwpp
+
+    url: https://ourworldindata.org/grapher/population-unwpp
+    Orientações: Baixar em um dos graficos utilizados
