@@ -13,4 +13,4 @@
 
 ## Countries
 
-    Orientações: Base criado com IA generativa
+    Orientações: Base criada com IA generativa
