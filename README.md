@@ -10,3 +10,7 @@
 
     url: https://ourworldindata.org/co2-emissions
     Orientações: Baixar em um dos graficos utilizados
+
+## Countries
+
+    Orientações: Base criado com IA generativa
