@@ -5,3 +5,8 @@
 
     url: https://app.anm.gov.br/SIGBM/Publico/ClassificacaoNacionalDaBarragem
     Orientações: Baixar em formato .CSV
+
+##annual-co2-emissions-per-country
+
+    url: https://ourworldindata.org/co2-emissions
+    Orientações: Baixar em um dos graficos utilizados
