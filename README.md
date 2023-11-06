@@ -13,7 +13,7 @@
     descrição: 
     orientações: Baixar em um dos graficos utilizados
 
-## Countries
+## Country
 
     orientações: Base criada com IA generativa
 
@@ -28,3 +28,15 @@
     url: [https://ourworldindata.org/grapher/population-unwpp](https://ourworldindata.org/grapher/national-gdp-wb)
     descrição: produto interno grupo dos paises
     orientações: Baixar em um dos graficos utilizados
+
+## co-emissions-by-sector
+    
+    url: https://ourworldindata.org/emissions-by-sector
+    descrição: Emissão de CO2 por pais e setor
+    orientações: Baixar em um dos graficos utilizados
+
+## climate-change
+
+    url: https://ourworldindata.org/explorers/climate-change
+    descrição: Histórico da variação climatica do planeta
+    orientações: Baixar abase utilizada no grafico
