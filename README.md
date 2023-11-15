@@ -39,4 +39,11 @@
 
     url: https://ourworldindata.org/explorers/climate-change
     descrição: Histórico da variação climatica do planeta
-    orientações: Baixar abase utilizada no grafico
+    orientações: Baixar a base utilizada no grafico
+
+
+## modern-renewable-prod.csv
+
+    url: https://ourworldindata.org/grapher/modern-renewable-prod
+    descrição: Histórico de energia renovavel utilizada
+    orientações: Baixar a base utilizada no grafico
