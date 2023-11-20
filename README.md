@@ -47,3 +47,21 @@
     url: https://ourworldindata.org/grapher/modern-renewable-prod
     descrição: Histórico de energia renovavel utilizada
     orientações: Baixar a base utilizada no grafico
+
+## per-capita-energy-use
+
+    url: https://ourworldindata.org/explorers/energy
+    descrição: Uso de energia por pessoa
+    orientações: Baixar a base utilizada no grafico
+
+## global-fossil-fuel-consumption
+
+    url: https://ourworldindata.org/grapher/global-fossil-fuel-consumption
+    descrição: Consumo global de combustíveis fósseis
+    orientações: Baixar a base utilizada no grafico
+
+## ghg-per-kg-poore
+
+    url: https://ourworldindata.org/environmental-impacts-of-food
+    descrição: Emissões de gases de efeito estufa por quilograma de produto alimentício
+    orientações: Baixar a base utilizada no grafico
