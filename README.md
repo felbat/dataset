@@ -54,9 +54,9 @@
     descrição: Uso de energia por pessoa
     orientações: Baixar a base utilizada no grafico
 
-## global-fossil-fuel-consumption
+## fossil-fuel-consumption-by-fuel-type
 
-    url: https://ourworldindata.org/grapher/global-fossil-fuel-consumption
+    url: https://ourworldindata.org/grapher/fossil-fuel-consumption-by-fuel-type
     descrição: Consumo global de combustíveis fósseis
     orientações: Baixar a base utilizada no grafico
 
