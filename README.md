@@ -10,7 +10,7 @@
 ## annual-co2-emissions-per-country
 
     url: https://ourworldindata.org/co2-emissions
-    descrição: 
+    descrição: Quantidade de emissão de CO2 anual por país
     orientações: Baixar em um dos graficos utilizados
 
 ## Country
@@ -20,13 +20,13 @@
 ## population-unwpp
 
     url: https://ourworldindata.org/grapher/population-unwpp
-    descrição: 
+    descrição: Quantidade de população anual por país
     orientações: Baixar em um dos graficos utilizados
 
 ## national-gdp-wb
 
     url: [https://ourworldindata.org/grapher/population-unwpp](https://ourworldindata.org/grapher/national-gdp-wb)
-    descrição: produto interno grupo dos paises
+    descrição: Valor do Produto interno bruto anual por país
     orientações: Baixar em um dos graficos utilizados
 
 ## co-emissions-by-sector
@@ -38,14 +38,14 @@
 ## climate-change
 
     url: https://ourworldindata.org/explorers/climate-change
-    descrição: Histórico da variação climatica do planeta
+    descrição: Variação climática anual global
     orientações: Baixar a base utilizada no grafico
 
 
 ## modern-renewable-prod.csv
 
     url: https://ourworldindata.org/grapher/modern-renewable-prod
-    descrição: Histórico de energia renovavel utilizada
+    descrição: Utilização de energia renovável anual por país
     orientações: Baixar a base utilizada no grafico
 
 ## per-capita-energy-use
@@ -57,7 +57,7 @@
 ## fossil-fuel-consumption-by-fuel-type
 
     url: https://ourworldindata.org/grapher/fossil-fuel-consumption-by-fuel-type
-    descrição: Consumo global de combustíveis fósseis
+    descrição: Consumo global de combustíveis fósseis anual por tipo e país
     orientações: Baixar a base utilizada no grafico
 
 ## ghg-per-kg-poore
